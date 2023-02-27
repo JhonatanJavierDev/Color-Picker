@@ -12,7 +12,7 @@ The functional objective of this code is to make it easier to perform these colo
 un código html simple con javascript (un estilo css simple) que te permitirá seleccionar un color y luego mostrarte su código hexadecimal.
 
 
-#info
+# info
 
 
 El objetivo funcional de este código es que sea más fácil realizar estas conversiones de color, de una manera más sencilla y puedas acceder a los colores hexadecimales, más fácil y puedas elegir el color específicamente a tu gusto
